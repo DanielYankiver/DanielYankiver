@@ -50,8 +50,8 @@ I am a creative software engineer with a background in Film and TV Production. I
 
 <p align="center">
     <a href="https://github.com/danielyankiver">
-        <img src="https://github-readme-stats.vercel.app/api?username=danielyankiver&show_icons=true&hide=stars&hide_border=true&theme=dark" alt="Daniel's GitHub Stats" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielyankiver&layout=compact&hide_border=true&theme=dark" alt="Daniels's Language Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=danielyankiver&show_icons=true&hide=stars&hide_border=true&theme=midnight-purple" alt="Daniel's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielyankiver&layout=compact&hide_border=true&theme=midnight-purple" alt="Daniels's Language Stats" />
     </a>
 </p>
 
