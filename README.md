@@ -47,14 +47,18 @@ I am a creative software engineer with a background in Film and TV Production. I
 </div>
 
 ### GitHub Stats
+
 <p align="center">
+    <a href="https://github.com/danielyankiver">
+        <img src="https://github-readme-stats.vercel.app/api?username=danielyankiver&show_icons=true&hide=stars&hide_border=true" alt="Jeffrey's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielyankiver&layout=compact&hide_border=true" alt="Jeffrey's Language Stats" />
+    </a>
+</p>
+
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielyankiver)](https://github.com/danielyankiver/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielyankiver&layout=compact)](https://github.com/danielyankiver/github-readme-stats)
-
-</p>
-
 
 <!--
 **DanielYankiver/DanielYankiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
