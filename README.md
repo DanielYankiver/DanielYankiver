@@ -1,4 +1,6 @@
-<img src="./banner.jpg" alt="banner" />
+<div align="center">
+    <img src="./banner.jpg" alt="banner" />
+</div>
 
 ### About Me 
 I am a creative software engineer with a background in Film and TV Production. I enjoy building applications that incorporate front-end and back-end development with robust UI that uses efficient code to solve real-world problems.
