@@ -1,5 +1,5 @@
 ### About Me 
-I am a creative software engineer with experience building applications with React, Javascript, Ruby, Rails, SQL databases, CSS, HTML, Node.js, Firebase and RESTful API architecture. Innovative thinker with a background in Film and TV Production. Programmer with strong skills in team-building, project management, debugging, and code optimization. Software Engineer with projects that incorporate front-end and back-end development with robust user interfaces (UI) that use efficient code to solve real-world problems.
+I am a creative software engineer with a background in Film and TV Production. I enjoy building applications that incorporate front-end and back-end development with robust user interfaces (UI) that use efficient code to solve real-world problems.
 
 <div align="center">
     <a href="https://www.danielyankiver.com/">
