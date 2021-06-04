@@ -1,4 +1,6 @@
 ### About Me 
+I am a creative full-stack web developer with experience building applications with React, Javascript, Ruby, Rails, SQL databases, CSS, HTML, Node.js, Firebase and RESTful API architecture. Innovative thinker with a background in Film and TV Production. Programmer with strong skills in team-building, project management, debugging, and code optimization. Software Engineer with projects that incorporate front-end and back-end development with robust user interfaces (UI) that use efficient code to solve real-world problems.
+ 
 
 <!--
 **DanielYankiver/DanielYankiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
