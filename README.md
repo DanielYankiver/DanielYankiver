@@ -62,7 +62,7 @@ I am a creative software engineer with a background in Film and TV Production. I
 ---
 
 ### Currently Learning
-- UX / UI Fundamentals 
+- UX / UI 
 - Algorithms and data structures
 -  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
 - <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
