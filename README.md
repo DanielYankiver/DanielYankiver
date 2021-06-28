@@ -36,6 +36,8 @@ I am a creative software engineer with a background in Film and TV Production. I
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
     <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
     <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
@@ -67,8 +69,7 @@ I am a creative software engineer with a background in Film and TV Production. I
 - <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 - UX / UI 
 - Algorithms and data structures
--  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
-- <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+
 
 
 <!-- ---
