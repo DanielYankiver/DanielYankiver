@@ -70,7 +70,7 @@ I am a creative software engineer with a background in Film and TV Production. I
 
 - <img src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
 - <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql" alt="GraphQL"/>
-- <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+- Theme UI 
 - UX / UI 
 - Algorithms and data structures
 
