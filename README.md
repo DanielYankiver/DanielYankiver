@@ -67,12 +67,9 @@ I am a creative software engineer with a background in Film and TV Production. I
 
 ### Currently Learning
 
-- <img src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-- <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql" alt="GraphQL"/>
-- Theme UI 
-- UX / UI 
-- Algorithms and data structures
-
+- Blockchain Development 
+- Solidity 
+- web3.js
 
 
 <!-- ---
