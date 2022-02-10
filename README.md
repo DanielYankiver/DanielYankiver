@@ -70,7 +70,6 @@ I am a creative software engineer with a background in Film and TV Production. I
 
 - Blockchain Development 
 - web3.js
-- <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="solidity" /> 
 
 
 
