@@ -71,8 +71,6 @@ I am a creative software engineer with a background in Film and TV Production. I
 - Blockchain Development 
 - web3.js
 
-
-
 <!-- ---
 
 <div align='center'>
