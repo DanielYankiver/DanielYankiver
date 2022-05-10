@@ -3,7 +3,7 @@
 </div>
 
 ### About Me 
-I am a creative software engineer with a background in film and tv production. I enjoy building applications that incorporate frontend and backend development with robust UI that uses efficient code to solve real-world problems.
+I'm a creative software engineer with a background in film and tv production. I enjoy building applications that incorporate frontend and backend development with robust UI that uses efficient code to solve real-world problems.
 
 <div align="center">
     <a href="https://www.linkedin.com/in/daniel-yankiver/">
