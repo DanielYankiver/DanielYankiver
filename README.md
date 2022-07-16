@@ -55,7 +55,6 @@ I'm a creative software engineer with a background in filmmaking. I build applic
     <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />   
 </div>
 
-
 ### GitHub Stats
 
 <p align="center">
