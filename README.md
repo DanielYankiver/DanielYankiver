@@ -20,7 +20,7 @@ I'm a creative software engineer with a background in filmmaking. I build applic
     </a>
 </div>
 
-### Languages, Frameworks, Libraries, Tools & Skills
+### Languages, Frameworks, Libraries, Tools and Skills
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
