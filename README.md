@@ -56,7 +56,6 @@ I'm a creative software engineer with a background in filmmaking. I build applic
 </div>
 
 ### GitHub Stats
-
 <p align="center">
     <a href="https://github.com/danielyankiver">
         <img src="https://github-readme-stats.vercel.app/api?username=danielyankiver&show_icons=true&hide=stars&hide_border=true&theme=gotham" alt="daniel's github stats" />
