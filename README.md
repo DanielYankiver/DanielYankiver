@@ -3,6 +3,7 @@
 </div>
 
 ### About Me
+
 I'm a creative software engineer with a background in filmmaking. I build applications that incorporate frontend and backend development with robust UI. I use efficient code to solve real-world problems.
 
 <div align="center">
@@ -21,6 +22,7 @@ I'm a creative software engineer with a background in filmmaking. I build applic
 </div>
 
 ### Languages, Frameworks, Libraries, Tools & Skills
+
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
@@ -56,6 +58,7 @@ I'm a creative software engineer with a background in filmmaking. I build applic
 </div>
 
 ### GitHub Stats
+
 <p align="center">
     <a href="https://github.com/danielyankiver">
         <img src="https://github-readme-stats.vercel.app/api?username=danielyankiver&show_icons=true&hide=stars&hide_border=true&theme=gotham" alt="daniel's github stats" />
