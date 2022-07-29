@@ -71,7 +71,6 @@ I'm a creative software engineer with a background in filmmaking. I build applic
 ### Currently Learning
 
 - Video Players (UI and Functionality)
-- React.js as a Backend 
 - Docker
 - Blockchain Development 
 - web3.js
