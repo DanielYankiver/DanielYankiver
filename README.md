@@ -74,4 +74,3 @@ I'm a creative software engineer with a background in filmmaking. I build applic
 - Video Players (UI and Functionality)
 - Docker
 - Blockchain Development 
-- web3.js
