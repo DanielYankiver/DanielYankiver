@@ -73,3 +73,4 @@ I'm a creative software engineer with a background in filmmaking. I build applic
 - React Native 
 - Video Players (UI and Functionality)
 - Docker
+- Blockchain Development
