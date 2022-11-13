@@ -69,7 +69,7 @@ I'm a creative software engineer with a background in filmmaking. I build applic
 
 ### Currently Learning
 
-- Video Players (UI and Functionality)
+- Video Players (UI & Functionality)
 - React Native 
 - Docker
 - Blockchain Development
