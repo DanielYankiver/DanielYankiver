@@ -76,3 +76,4 @@ I'm a creative software engineer with a background in filmmaking. I build applic
 - Node.js
 - Algorithms 
 - Microservices
+- Prisma
