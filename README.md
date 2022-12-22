@@ -69,6 +69,7 @@ I'm a creative software engineer with a background in filmmaking. I build applic
 
 ### Currently Learning
 
+- Redux
 - Video Players (UI & Functionality)
 - React Native 
 - Node.js / Express.js
