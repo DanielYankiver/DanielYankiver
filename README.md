@@ -74,6 +74,3 @@ I'm a creative software engineer with a background in filmmaking. I build applic
 - React Native 
 - Node.js / Express.js
 - Algorithms 
-- Microservices
-- Blockchain Development
-- SQL
