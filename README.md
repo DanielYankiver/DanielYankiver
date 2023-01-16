@@ -75,4 +75,3 @@ I'm a creative software engineer with a background in filmmaking. I build applic
 - Node.js / Express.js
 - Algorithms 
 - React Native 
-- Sourcetree
