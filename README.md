@@ -72,5 +72,4 @@ I'm a creative software engineer with a background in filmmaking. I build applic
 - Redux 
 - React Testing Library
 - Node.js 
-- Algorithms 
 - React Native 
