@@ -56,14 +56,14 @@ I'm a creative software engineer with a background in filmmaking. I build applic
     <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />   
 </div>
 
-<!-- ### GitHub Stats
+### GitHub Stats
 
 <p align="center">
     <a href="https://github.com/danielyankiver">
         <img src="https://github-readme-stats.vercel.app/api?username=danielyankiver&show_icons=true&hide=stars&hide_border=true&theme=gotham" alt="daniel's github stats" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielyankiver&layout=compact&hide_border=true&theme=gotham" alt="daniels's language stats" />
     </a>
-</p> -->
+</p>
 
 ---
 
