@@ -13,12 +13,12 @@ I'm a creative software engineer with a background in filmmaking. I build applic
     <a href="mailto:dyankiver@gmail.com" >
         <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-      <a href="https://www.danielyankiver.com/">
+<!--       <a href="https://www.danielyankiver.com/">
         <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="Portfolio Website" />
     </a>
     <a href="https://danielyankiver.medium.com/" >
         <img src="https://img.shields.io/badge/read%20my%20blogs%20on%20medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-    </a>
+    </a> -->
 </div>
 
 ### Languages, Frameworks, Libraries, Tools & Skills
