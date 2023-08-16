@@ -2,10 +2,6 @@
     <img src="./banner-github.png" alt="banner" />
 </div>
 
-### About Me
-
-I'm a creative software engineer with a background in filmmaking. I build applications that incorporate frontend and backend development with robust UI. I use efficient code to solve real-world problems.
-
 <div align="center">
     <a href="https://www.linkedin.com/in/daniel-yankiver/" >
         <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,6 +16,11 @@ I'm a creative software engineer with a background in filmmaking. I build applic
         <img src="https://img.shields.io/badge/read%20my%20blogs%20on%20medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a> -->
 </div>
+
+### About Me
+
+I'm a creative software engineer with a background in filmmaking. I build applications that incorporate frontend and backend development with robust UI. I use efficient code to solve real-world problems.
+
 
 ### Languages, Frameworks, Libraries, Tools & Skills
 
