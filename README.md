@@ -76,6 +76,5 @@ I'm a creative software engineer with a background in filmmaking. I build applic
 ### Currently Learning
 
 - SwiftUI
-- Mobile Development
-- AngularJS
+- Native Development
 
