@@ -33,7 +33,7 @@ I'm a creative software engineer with a background in filmmaking. I build applic
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react router" />
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
-    <img src="https://img.shields.io/badge/react_testing_librabry-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react testing library" />
+    <img src="https://img.shields.io/badge/react_testing_librabry-%FF7F7Fa.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react testing library" />
     <img src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js"/>
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue.js"/>
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql" alt="GraphQL"/>
