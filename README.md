@@ -2,6 +2,8 @@
     <img src="./banner-github.png" alt="banner" />
 </div>
 
+<br/>
+
 <div align="center">
     <a href="https://www.linkedin.com/in/daniel-yankiver/" >
         <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -23,6 +25,8 @@ I'm a creative software engineer with a background in filmmaking. I build applic
 
 
  <!--  ### Skills: Languages, Frameworks, Libraries & Tools  -->
+ 
+<br/>
 
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
