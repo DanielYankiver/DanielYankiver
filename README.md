@@ -22,7 +22,7 @@
 I'm a creative software engineer with a background in filmmaking. I build applications that incorporate frontend and backend development with robust UI. I use efficient code to solve real-world problems.
 
 
-### Skills: Languages, Frameworks, Libraries & Tools
+ <!--  ### Skills: Languages, Frameworks, Libraries & Tools  -->
 
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
