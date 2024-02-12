@@ -69,7 +69,7 @@ I'm a creative software engineer with a background in filmmaking. I build applic
     <!--     <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="adobe" /> -->
 </div>
 
- <!--  ### GitHub Stats -->
+### GitHub Stats
 
 <br/>
 
