@@ -42,7 +42,7 @@ I'm a creative software engineer with a background in filmmaking. I build applic
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="xcode" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
     <img src="https://img.shields.io/badge/react_testing_librabry-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react testing library" />
