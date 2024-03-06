@@ -4,13 +4,6 @@
 
 <br/>
 
-### About Me
-
-I'm a creative software engineer with a background in filmmaking. I build applications that incorporate frontend and backend development with robust UI. I use efficient code to solve real-world problems. 
-
-
-<br/>
-
 <div align="center">
     <a href="mailto:dyankiver@gmail.com" >
         <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -25,6 +18,12 @@ I'm a creative software engineer with a background in filmmaking. I build applic
         <img src="https://img.shields.io/badge/read%20my%20blogs%20on%20medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a> -->
 </div>
+
+<br/>
+
+### About Me
+
+I'm a creative software engineer with a background in filmmaking. I build applications that incorporate frontend and backend development with robust UI. I use efficient code to solve real-world problems. 
 
 
 ### Skills: Languages, Frameworks, Libraries & Tools
