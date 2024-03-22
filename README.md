@@ -51,7 +51,7 @@ Creative software engineer with a background in filmmaking. I build applications
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql" alt="GraphQL"/>
-        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindCSS" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindCSS" />
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
     
     <img src="https://img.shields.io/badge/material--ui-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material ui" />
