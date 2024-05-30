@@ -84,7 +84,6 @@ Creative software engineer with a background in filmmaking. I build applications
 ---
 
 ### Currently Learning
-
 - SwiftUI
 - Native Development
 - Xcode
