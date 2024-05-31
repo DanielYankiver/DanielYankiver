@@ -5,7 +5,7 @@
 </div>
 <br/>
 <!-- EMAIL & LINKEDIN --> 
-<div align="center">
+<!-- <div align="center"> -->
     <!-- <a href="mailto:dyankiver@gmail.com" >
         <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
@@ -15,11 +15,11 @@
     <a href="https://www.danielyankiver.com/">
         <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="Portfolio Website" />
     </a> -->
-</div>
+<!-- </div> -->
 
 <br/>
 
-### About Me
+<!-- ### About Me -->
 
 Creative software engineer with a background in filmmaking. I build applications that incorporate frontend and backend development with robust UI. I use efficient code to solve real-world problems. 
 
