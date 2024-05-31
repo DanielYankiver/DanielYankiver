@@ -27,6 +27,7 @@
 Creative software engineer with a background in filmmaking. I build applications that incorporate frontend and backend development with robust UI. I use efficient code to solve real-world problems. 
 
 ### Skills: Languages, Frameworks, Libraries & Tools
+
  
 <br/>
 
