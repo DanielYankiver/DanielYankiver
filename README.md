@@ -26,7 +26,7 @@ Creative software engineer with a background in filmmaking. I build applications
 
 <br/>
 
-<div align="center>
+<div align="center">
         <a href="https://www.linkedin.com/in/daniel-yankiver/" >
             <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
