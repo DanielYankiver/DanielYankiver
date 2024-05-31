@@ -28,7 +28,7 @@ Creative software engineer with a background in filmmaking. I build applications
 
 ### Skills: Languages, Frameworks, Libraries & Tools
 
- 
+
 <br/>
 
 <div align="center">
