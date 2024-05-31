@@ -21,12 +21,8 @@
 
 <!-- ### About Me -->
 
-Creative software engineer with a background in filmmaking. I build applications that incorporate frontend and backend development with robust UI. I use efficient code to solve real-world problems
-
-
-<br/>
-
 <div align="center">
+        Creative software engineer with a background in filmmaking. I build applications that incorporate frontend and backend development with robust UI. I use efficient code to solve real-world problems
         <a href="https://www.linkedin.com/in/daniel-yankiver/" >
             <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
