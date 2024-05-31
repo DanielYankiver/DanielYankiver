@@ -25,14 +25,13 @@
         <a href="https://www.linkedin.com/in/daniel-yankiver/" >
             <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
-        <br/>
-        <br/>
-        ### Skills: Languages, Frameworks, Libraries & Tools
 </div>
 
 <br/>
 
 <div align="center">
+        ### Skills: Languages, Frameworks, Libraries & Tools
+        <br/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> 
     <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="swift" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
