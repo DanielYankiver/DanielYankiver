@@ -85,7 +85,7 @@
 
 ---
 
-### Currently Learning
+<h3>Currently Learning</h3>
 - SwiftUI
 - Native Development
 - Xcode
