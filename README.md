@@ -72,7 +72,7 @@ Skills: Languages, Frameworks, Libraries & Tools
     <!--     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="notion"/> -->
 </div>
 
-### GitHub Stats
+<h3>GitHub Stats</h3>
 
 <br/>
 
