@@ -29,7 +29,7 @@
 
 <br/>
 
-Skills: Languages, Frameworks, Libraries & Tools
+<h3>Skills: Languages, Frameworks, Libraries & Tools</h3>
 
 <br/>
 
