@@ -67,11 +67,8 @@
     <!--     <img src="https://img.shields.io/badge/semantic%20ui-35BDB2?style=for-the-badge&logo=semantic%20ui%20react&logoColor=white" alt="semantic ui" /> -->
     <!--     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="notion"/> -->
 </div>
-
 <h3>GitHub Stats</h3>
-
 <br/>
-
 <p align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielyankiver&layout=compact&hide_border=true&theme=gotham" alt="daniels's language stats" />
 <!--     <a href="https://github.com/danielyankiver"> -->
