@@ -54,9 +54,9 @@
     <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="premiere pro" />
     <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
         
-    <!--     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" /> -->
+    <!--     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> -->
+    <!--     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" /> -->
+    <!--     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" /> -->
     <!--     <img src="https://img.shields.io/badge/Ruby%20on%20rails-CC0000?style=for-the-badge&logo=ruby%20on%20rails&logoColor=white" alt="rails" /> -->
     <!--     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" /> -->
     <!--     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> -->
