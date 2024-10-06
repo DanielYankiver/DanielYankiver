@@ -1,4 +1,3 @@
-ok        
 <!-- BANNER  -->
 <div align="center">
     <img src="./banner-github.png" alt="banner" />
