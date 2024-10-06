@@ -25,6 +25,7 @@
             <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
 </div>
+
 <br/>
 
 <h2>Skills: Languages, Frameworks, Libraries & Tools</h2>
