@@ -1,4 +1,4 @@
-        
+ok        
 <!-- BANNER  -->
 <div align="center">
     <img src="./banner-github.png" alt="banner" />
@@ -16,7 +16,7 @@
     </a> -->
 <!-- </div> -->
 
-<!-- ### About Me -->å
+<!-- ### About Me -->
 <div align="center">
         Creative software engineer with a background in filmmaking. I build applications that incorporate frontend and backend development with robust UI. I use efficient code to solve real-world problems.
         <br/>
@@ -29,6 +29,7 @@
 <br/>
 
 <h2>Skills: Languages, Frameworks, Libraries & Tools</h2>
+
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="swift" />
