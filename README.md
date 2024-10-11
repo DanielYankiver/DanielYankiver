@@ -26,7 +26,6 @@
 </div>
 
 <br/>
-
 <h2>Skills: Languages, Frameworks, Libraries & Tools</h2>
 <br/>
 <div align="center">
