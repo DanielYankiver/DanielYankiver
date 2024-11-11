@@ -2,6 +2,7 @@
 <div align="center">
     <img src="./banner-github.png" alt="banner" />
 </div>
+
 <!-- EMAIL & LINKEDIN --> 
 <!-- <div align="center"> -->
     <!-- <a href="mailto:dyankiver@gmail.com" >
