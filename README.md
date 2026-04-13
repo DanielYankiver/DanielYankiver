@@ -68,7 +68,7 @@
 <h2>GitHub Stats</h2>
 <br/>
 <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielyankiver&layout=compact&hide_border=true&theme=gotham" alt="daniels's language stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielyankiver&layout=compact&hide_border=true&theme=gotham" alt="daniel's language stats" />
     
 <!--     <a href="https://github.com/danielyankiver"> -->
 <!--         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danielyankiver&show_icons=true&hide=stars&hide_border=true&theme=gotham" alt="daniel's github stats" /> -->
