@@ -17,7 +17,7 @@
 
 <!-- ### About Me -->
 <div align="center">
-        Creative software engineer with a background in filmmaking. I build applications that incorporate frontend and backend development with robust UI. I use efficient code to solve real-world problems.
+        Software engineer with a background in filmmaking. I build production apps across mobile and web, bringing a creative perspective to everything I ship. I leverage AI tools daily to accelerate development and output.
         <br/>
         <br/>
         <a href="https://www.linkedin.com/in/daniel-yankiver/" >
