@@ -65,10 +65,10 @@
     <!--     <img src="https://img.shields.io/badge/semantic%20ui-35BDB2?style=for-the-badge&logo=semantic%20ui%20react&logoColor=white" alt="semantic ui" /> -->
     <!--     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="notion"/> -->
 </div>
-<h2>GitHub Stats</h2>
+<!-- <h2>GitHub Stats</h2>
 <br/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielyankiver&layout=compact&hide_border=true&theme=gotham" alt="daniel's language stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielyankiver&layout=compact&hide_border=true&theme=gotham" alt="daniel's language stats" /> -->
     
 <!--     <a href="https://github.com/danielyankiver"> -->
 <!--         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danielyankiver&show_icons=true&hide=stars&hide_border=true&theme=gotham" alt="daniel's github stats" /> -->
@@ -77,8 +77,8 @@
 
 ---
 
-<h2>Currently Learning</h2>
+<!-- <h2>Currently Learning</h2>
 
 - SwiftUI
 - Native Development
-- Xcode
+- Xcode -->
